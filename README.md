@@ -1,8 +1,8 @@
 # Icondenim-clone
-<h3>IconDenim-Clone</h3>
-<span>HTML,CSS,Bootstrap,Javascript</span>
-Trang có 2 phần: 
-  - Trang chính
+
+<p>HTML,CSS,Bootstrap,Javascript</p>
+<p>Trang có 2 phần:</p>
+ <p>   - Trang chính </p>
   - Trang sản phẩm
 Có thể xem được UI sản phẩm chi tiết
 Trang đã responsive
